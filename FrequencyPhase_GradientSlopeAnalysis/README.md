@@ -1,1 +1,1 @@
-This repository contains the Python script for analyzing slope of the frequency gradient and the phase gradient in spreadouts. The repository also contains scripts developed by Gregor Mönke (gregor.moenke@embl.de) for wavelet analysis: [lib_psm.py] and [wavelet_analysis.py].
+This repository contains the Python script for analyzing slope of the frequency gradient and the phase gradient in spreadouts. The repository also contains scripts developed by Gregor Mönke (gregor.moenke@embl.de) for wavelet analysis: `lib_psm.py` and `wavelet_analysis.py`.
