@@ -1,1 +1,1 @@
-
+This repository contains the Python script for analyzing entrainment experiments. Output of the script includes plot of detrended timeseries with the periodic pulses, plot of instantaneous period, and stroboscopic map. A .txt file with sample data (i.e. segmentation clock in spreadouts subjected to 170-min periodic pulses of 2 uM DAPT) is also included. This repository also contains scripts developed by Gregor Mönke (gregor.moenke@embl.de) for wavelet analysis: `lib_psm.py` and `wavelet_analysis.py`.
